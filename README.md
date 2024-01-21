@@ -2,7 +2,7 @@
 ## Oliver Byrne
 
 ### Education
-Sound Engineering & Production
+Birmingham City University - Sound Engineering & Production 
 
 ### Projects
 - Luca (2023)
