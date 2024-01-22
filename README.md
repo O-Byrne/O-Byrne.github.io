@@ -13,6 +13,7 @@ Cirencester College (2020-2022)
 ### Completed Projects
 - Kuneho (2021)
 [![Kuneho](http://img.youtube.com/vi/eatkKt48nsE/0.jpg)](http://www.youtube.com/watch?v=eatkKt48nsE)
+
 - Afternoon Class Score (2022)
 
 - Luca (2023)
