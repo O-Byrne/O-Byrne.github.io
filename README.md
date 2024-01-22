@@ -4,11 +4,11 @@
 ### Education
 Birmingham City University (2022-2026) | Sound Engineering & Production
 
-Cirencester College (2020-2022) |
-  * BTEC Music Production
-  * A Level Physics
-  * A Level Maths
-  * A Level Further Maths
+Cirencester College (2020-2022) 
+| - BTEC Music Production
+| - A Level Physics
+| - A Level Maths
+| - A Level Further Maths
 
 ### Completed Projects
 - Kuneho (2021)
