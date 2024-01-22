@@ -4,8 +4,11 @@
 ### Education
 Birmingham City University - Sound Engineering & Production 
 
-### Projects
-- Luca (2023)
-- Afternoon Class (2022)
+### Completed Projects
 - Kuneho (2021)
+- Afternoon Class Score (2022)
+- Luca (2023)
 
+### In Progress Projects
+- Afternoon Class Foley
+- Dungeon Heroes Additional Foley
