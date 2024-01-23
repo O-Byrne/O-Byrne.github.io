@@ -8,7 +8,8 @@ Birmingham City University (2022-2026) | Sound Engineering & Production
 Cirencester College (2020-2022) | BTEC Music Production | A Level Physics | A Level Maths | A Level Further Maths
 
 ---
-### Completed Projects
+### Completed Projects Overview
+##### ([Complete Playlist](https://www.youtube.com/playlist?list=PLlxiILQYOCxV1kn5FR7rGtZQHTDLpYjz_)])
 ## ------------------------------------------- 2021 -------------------------------------------
 
 <img width="452" alt="Kuneho Title Card" src="https://github.com/O-Byrne/O-Byrne.github.io/assets/157286554/22a06e79-87a2-451a-a88f-0f986afc89cf">
@@ -20,13 +21,13 @@ Cirencester College (2020-2022) | BTEC Music Production | A Level Physics | A Le
 
 <img width="452" alt="Afternoon Class Title Card" src="https://github.com/O-Byrne/O-Byrne.github.io/assets/157286554/3976ac6a-d332-4809-9996-446818b872ed">
 
-- [Afternoon Class Score (2022)](https://www.youtube.com/watch?v=CAYDRIbXFAc)
+- [Afternoon Class Score (2022)](https://youtu.be/N1Vg7jgv2oc)
 
 ## ------------------------------------------- 2023 -------------------------------------------
 
 <img width="452" alt="Luca Title Card" src="https://github.com/O-Byrne/O-Byrne.github.io/assets/157286554/61d765eb-512b-486d-8ff7-b1e45d30a506">
 
-- [Luca (2023)](https://www.youtube.com/watch?v=dSwd12JonmA)
+- [Luca (2023)](https://youtu.be/H_dDbXpgmhc)
   
 ---
 ### In Progress Projects
@@ -36,7 +37,5 @@ Cirencester College (2020-2022) | BTEC Music Production | A Level Physics | A Le
 
 - Afternoon Class Foley
 
-  
-[![Kuneho](http://img.youtube.com/vi/eatkKt48nsE/0.jpg)](http://www.youtube.com/watch?v=eatkKt48nsE)
 
 
