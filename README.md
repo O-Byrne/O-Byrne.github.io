@@ -22,6 +22,8 @@ Cirencester College (2020-2022) | BTEC Music Production | A Level Physics | A Le
 ### In Progress Projects
 - Afternoon Class Foley
 - Dungeon Heroes Additional Foley
+
+![image](https://github.com/O-Byrne/O-Byrne.github.io/assets/157286554/abc7cce0-bee6-42b6-a786-f62f8dc4d425)
   
 [![Kuneho](http://img.youtube.com/vi/eatkKt48nsE/0.jpg)](http://www.youtube.com/watch?v=eatkKt48nsE)
 
