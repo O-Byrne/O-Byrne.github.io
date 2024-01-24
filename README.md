@@ -49,7 +49,9 @@ Cirencester College (2020-2022) | BTEC Music Production | A Level Physics | A Le
 [Luca](https://youtu.be/H_dDbXpgmhc)
 
 </div>
+
 ---
+
 ### In Progress Projects
 - Dungeon Heroes Additional Foley
 - Afternoon Class Foley
