@@ -12,9 +12,9 @@ Cirencester College (2020-2022) | BTEC Music Production | A Level Physics | A Le
 ##### ([Complete Playlist](https://www.youtube.com/playlist?list=PLlxiILQYOCxV1kn5FR7rGtZQHTDLpYjz_))
   
 <details>
-<summary>"
+<summary>
   
-  ## 2021"
+## 2021
 </summary>
 <img width="452" alt="Kuneho Title Card" src="https://github.com/O-Byrne/O-Byrne.github.io/assets/157286554/22a06e79-87a2-451a-a88f-0f986afc89cf">
 
