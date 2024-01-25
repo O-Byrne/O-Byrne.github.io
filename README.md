@@ -16,40 +16,27 @@ Cirencester College (2020-2022) | BTEC Music Production | A Level Physics | A Le
 ## ----- 2021 -----
 
 </div>
-<div align="center">
 <img width="452" alt="Kuneho Title Card" src="https://github.com/O-Byrne/O-Byrne.github.io/assets/157286554/22a06e79-87a2-451a-a88f-0f986afc89cf">
-</div>
 
-<div align="center">
-  
 [Kuneho](https://youtu.be/YaH1j3PShas)
 
-</div>
+<div align="center">
   
 ## ----- 2022 -----
 
-<div align="center">
-<img width="452" alt="Afternoon Class Title Card" src="https://github.com/O-Byrne/O-Byrne.github.io/assets/157286554/3976ac6a-d332-4809-9996-446818b872ed">
 </div>
-
-<div align="center">
+<img width="452" alt="Afternoon Class Title Card" src="https://github.com/O-Byrne/O-Byrne.github.io/assets/157286554/3976ac6a-d332-4809-9996-446818b872ed">
   
 [Afternoon Class Score](https://youtu.be/N1Vg7jgv2oc)
 
-</div>
 <div align="center">
   
 ## ----- 2023 -----
 
 </div>
-<div align="center">
 <img width="452" alt="Luca Title Card" src="https://github.com/O-Byrne/O-Byrne.github.io/assets/157286554/61d765eb-512b-486d-8ff7-b1e45d30a506">
-</div>
-<div align="center"> 
-  
-[Luca](https://youtu.be/H_dDbXpgmhc)
 
-</div>
+[Luca](https://youtu.be/H_dDbXpgmhc)
 
 ---
 
