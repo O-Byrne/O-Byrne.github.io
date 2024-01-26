@@ -12,9 +12,7 @@ Cirencester College (2020-2022) | BTEC Music Production | A Level Physics | A Le
 ##### ([Complete Playlist](https://www.youtube.com/playlist?list=PLlxiILQYOCxV1kn5FR7rGtZQHTDLpYjz_))
 
 <p align="center">
-  <b> 
-    ## 2021 
-            </b><br>
+  <b> 2021 </b><br>
   <a href="#">Link 1</a> |
   <a href="#">Link 2</a> |
   <a href="#">Link 3</a>
