@@ -8,7 +8,8 @@ Birmingham City University (2022-2026) | BSc Sound Engineering & Production
 Cirencester College (2020-2022) | BTEC Music Production | A Level Physics | A Level Maths | A Level Further Maths
 
 ---
-
+### Projects 
+[Complete Playlist](https://www.youtube.com/playlist?list=PLlxiILQYOCxV1kn5FR7rGtZQHTDLpYjz_)
 ## ------------------- 2021 -------------------
 <img width="452" alt="Kuneho Title Card" src="https://github.com/O-Byrne/O-Byrne.github.io/assets/157286554/22a06e79-87a2-451a-a88f-0f986afc89cf">
 
